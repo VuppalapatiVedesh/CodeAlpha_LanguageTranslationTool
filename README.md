@@ -44,40 +44,6 @@ CodeAlpha_LanguageTranslationTool
 
 ---
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone the repository
-
-```
-git clone https://github.com/your-username/CodeAlpha_LanguageTranslationTool.git
-```
-
-### 2️⃣ Navigate to the project folder
-
-```
-cd CodeAlpha_LanguageTranslationTool
-```
-
-### 3️⃣ Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run the application
-
-```
-python app.py
-```
-
-### 5️⃣ Open in browser
-
-```
-http://127.0.0.1:5000
-```
-
----
-
 ## 📸 Project Demo
 
 The user can:
@@ -97,15 +63,15 @@ This project was developed as part of **Task 1: Language Translation Tool** for 
 
 ---
 
-## 👨‍💻 Author
-
-**Vedesh Vuppalapati**
-
----
-
 ## 📌 Future Improvements
 
 - Add voice input translation
 - Add text-to-speech output
 - Support more languages
 - Improve UI with modern design
+
+---
+
+## 👨‍💻 Author
+
+**Vedesh Vuppalapati**
